@@ -19,4 +19,6 @@
   Files to edit: 'CreatePost.js' (line 56), 'Profile.js' (line 41), 'Signup.js' (line 23).</li>
   <li>Once all modifications are made, execute "npm start" in the same directory to launch the application.</li>
 </ul>
+<h2>Special Mention of Reference: Playlist Link</h2>
+I would like to give a special mention to the playlist available at the following link: https://www.youtube.com/watch?v=8BqA5DQp0j4&list=PLB97yPrFwo5g0FQr4rqImKa55F_aPiQWk. This playlist served as a valuable reference throughout the development process, providing guidance whenever needed.
 
